@@ -1,9 +1,7 @@
-# Portfolio-2020
+# Portfolio
 
 HTML5, CSS3, Sass, Javascript - Portfolio Site including links to my projects and ways to get in contact with me.
 
-**Link to site:** https://www.shawncharles.com
-<img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true"></img>
 
 ## How It's Made:
 
